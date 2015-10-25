@@ -1,4 +1,4 @@
-module Test
+module Issue72
 
 import Data.Vect
 
