@@ -1,0 +1,8 @@
+package test
+
+modules = Test
+main = Test
+
+opts = "--warnpartial"
+
+pkgs = effects, lightyear, contrib

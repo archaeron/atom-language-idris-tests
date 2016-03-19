@@ -1,0 +1,6 @@
+package test
+
+modules = Test
+main = Test
+
+opts = "-p effects -p lightyear -p contrib --warnpartial"
